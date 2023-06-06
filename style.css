@@ -427,7 +427,18 @@ body.dark-theme{
 .skills__jQuery{
     width: 50%;
 }
-
+.skills__python,.skills__django{
+    width:85%;
+}
+.skills_java{
+    width:75%;
+}
+.skills__ccpp{
+    width:85%;
+}
+.skills__angular,.skills__react{
+    width:70%;
+}
 /* Qualifications */
 .qualification__tabs{
     display: flex;
