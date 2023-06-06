@@ -427,7 +427,10 @@ body.dark-theme{
 .skills__jQuery{
     width: 50%;
 }
-.skills__python,.skills__django{
+.skills__python{
+    width:85%;
+}
+.skills__django{
     width:85%;
 }
 .skills_java{
@@ -436,7 +439,10 @@ body.dark-theme{
 .skills__ccpp{
     width:85%;
 }
-.skills__angular,.skills__react{
+.skills__angular{
+    width:70%;
+}
+.skills__react{
     width:70%;
 }
 /* Qualifications */
