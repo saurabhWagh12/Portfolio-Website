@@ -332,6 +332,7 @@ body.dark-theme{
     padding: 1rem;
     border-radius: 0.5rem;
     font-weight: var(--font-medium);
+    border-color: var(--first-color);
 }
 .button:hover{
     background-color: var(--first-color-alt);
