@@ -472,6 +472,7 @@ body.dark-theme{
 .certificate__section{
     display: flex;
     justify-content: space-around;
+    flex-wrap:wrap;
 
 }
 
